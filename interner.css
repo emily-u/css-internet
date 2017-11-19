@@ -1,0 +1,161 @@
+/*backgroung-size:cover*/
+#wrapper{
+    width:970px;
+    height:auto;
+    padding:10px;
+/*    background-color: skyblue;*/
+}
+#one{
+    margin-bottom: 0;
+    padding-bottom: 0;
+    height:75px;
+}
+#one img{
+    height:90px;
+    width:90px;
+    display:inline-block;
+}
+#one h1{
+    display:inline-block;
+    vertical-align: top;
+    padding:15px;
+}
+h2{
+    color:white;
+    background-color: darkblue;
+    margin:0px;
+    padding:10px;
+}
+#three{
+    width:20%;
+    padding:10px;
+    display: inline-block;
+    vertical-align: top;
+}
+.red{
+    color:red;
+}
+.blue{
+    color:blue;
+}
+.skyblue{
+    color:skyblue;
+}
+#buttonone{
+    color:white;
+    background-color: blue;
+    border-radius: 5px;
+    width:90%;
+    height:40px;
+    margin:2px;
+    font-size:15px;
+}
+#buttontwo{
+    color:white;
+    background-color: orange;
+    border-radius: 5px;
+    width:90%;
+    height:40px;
+    margin:2px;
+    font-size:15px;
+}
+#pic button{
+    color:white;
+    background-color: skyblue;
+    border-radius: 5px;
+    width:70%;
+    margin: 0px 25px 30px 25px;
+    height:30px;
+    font-size:15px;
+}
+#pic{
+    background-image: url(ad_background.png);
+}
+#pic h3{
+    color: white;
+    padding:30px 20px 0px 20px;
+    text-align: center;
+}
+#pic img{
+    width:60%;
+    padding:0px 40px;
+}
+#three hr{
+    margin:20px;
+    width: 100%;
+    margin-left: 0px;
+}
+#four{
+    width:77%;
+    display:inline-block;
+}
+#fourl img{
+    width:20px;
+    height:20px;
+}
+#fourr img{
+    width:50px;
+    height:50px;
+}
+#fourl{
+    display: inline-block;
+    vertical-align: top;
+    margin-right:490px;
+}
+#fourr{
+    display: inline-block;
+    margin-right:0px;
+}
+#fourr img{
+    display: inline-block
+}
+
+#phone{
+    display: inline-block;
+    vertical-align:top;
+}
+#phone h6{
+    padding:0px;
+    margin: 0px;
+}
+#phone h3{
+    padding:0px;
+    margin: 0px;
+}
+.bold{
+    font-weight: bold;
+}
+#five{
+    display:inline-block;
+    width:70%;
+}
+#client_server{
+    width:50%;
+    margin-left:180px;
+}
+#last img{
+    width:15%;
+    padding:15px;
+}
+#learnmore{
+    display:inline-block;
+    width:70%;
+}
+#last{
+    border:6px solid blue;
+    border-bottom:0px solid white;
+}
+#five hr{
+    width:100%;
+}
+#five{
+    width:auto;
+}
+h3{
+    margin-bottom:0px;
+    margin-top:0px;
+}
+#fivep{
+    margin:0px;
+}
+
